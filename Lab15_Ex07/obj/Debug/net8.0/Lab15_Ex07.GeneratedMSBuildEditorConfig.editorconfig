@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Lab15_Ex07
-build_property.ProjectDir = C:\66030243\Lab15-CSharp-Method-Overloading\Lab15_Ex07\
+build_property.ProjectDir = c:\66030243\Lab15-CSharp-Method-Overloading\Lab15_Ex07\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
